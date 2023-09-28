@@ -31,7 +31,8 @@ Figure 6. Driver performing the nighttime contrast enhancement application where
 driver’svision field is increased. Upper and lower portions represent the driver’s vision field
 before and after using the application.
 
-![image](https://github.com/smartCarLab/smartCar/blob/master/image/image7.png?raw=true)
+![image](https://github.com/DDlic/smartCar/blob/master/image/image7.png?raw=true)
+
 
 "just a git test"
 In fact, I tried compiling many times but still can't remove the bug.
